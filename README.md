@@ -100,5 +100,7 @@
 
 ### Python Pattern ###
 
+正在学习  python 3 patterns recipes and idioms_
+
 ### Author ###
 xiaomo(wxm4ever@gmail.com)
